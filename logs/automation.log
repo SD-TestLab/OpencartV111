@@ -1,0 +1,38 @@
+13:10:46.693 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\Testing 2026\OpencartV111\master.xml"
+13:10:51.493 [main] INFO  testCases.TC001_AccountRegistrationTest - Launching Chrome browser
+13:10:52.690 [main] INFO  testCases.TC001_AccountRegistrationTest - Application launched: http://localhost/
+13:10:52.724 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+13:10:53.047 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+13:10:54.057 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+13:10:54.063 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+13:10:55.246 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+13:10:56.047 [main] INFO  testCases.TC001_AccountRegistrationTest - Account successfully registered with email: XMwuz@gmail.com
+13:10:56.048 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+13:10:56.659 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser closed successfully
+13:10:58.433 [main] INFO  testCases.TC002_LoginTest - Launching Chrome browser
+13:10:59.262 [main] INFO  testCases.TC002_LoginTest - Application launched: http://localhost/
+13:10:59.265 [main] INFO  testCases.TC002_LoginTest - ***** Starting login test *****
+13:11:00.959 [main] INFO  testCases.TC002_LoginTest - Navigated to Login Page
+13:11:01.696 [main] INFO  testCases.TC002_LoginTest - Login attempted with configured credentials
+13:11:02.381 [main] INFO  testCases.TC002_LoginTest - Login successful, My Account page verified
+13:11:02.382 [main] INFO  testCases.TC002_LoginTest - ***** Finish TC002_LoginTest*****
+13:11:02.914 [main] INFO  testCases.TC002_LoginTest - Browser closed successfully
+13:23:06.480 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\Testing 2026\OpencartV111\master.xml"
+13:23:10.251 [main] INFO  testCases.TC001_AccountRegistrationTest - Launching Chrome browser
+13:23:11.329 [main] INFO  testCases.TC001_AccountRegistrationTest - Application launched: http://localhost/
+13:23:11.365 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+13:23:11.644 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+13:23:12.530 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+13:23:12.535 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+13:23:13.635 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+13:23:14.435 [main] INFO  testCases.TC001_AccountRegistrationTest - Account successfully registered with email: PIOWD@gmail.com
+13:23:14.435 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+13:23:14.995 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser closed successfully
+13:23:16.613 [main] INFO  testCases.TC002_LoginTest - Launching Chrome browser
+13:23:17.741 [main] INFO  testCases.TC002_LoginTest - Application launched: http://localhost/
+13:23:17.745 [main] INFO  testCases.TC002_LoginTest - ***** Starting login test *****
+13:23:18.866 [main] INFO  testCases.TC002_LoginTest - Navigated to Login Page
+13:23:19.399 [main] INFO  testCases.TC002_LoginTest - Login attempted with configured credentials
+13:23:20.000 [main] INFO  testCases.TC002_LoginTest - Login successful, My Account page verified
+13:23:20.000 [main] INFO  testCases.TC002_LoginTest - ***** Finish TC002_LoginTest*****
+13:23:20.493 [main] INFO  testCases.TC002_LoginTest - Browser closed successfully
