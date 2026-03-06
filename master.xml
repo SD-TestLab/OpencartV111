@@ -5,7 +5,8 @@
         <parameter name="browser" value="chrome"/>
         <parameter name="appURL" value="appURL2"/>
         <classes>
-            <class name="tests.YourTestClass"/>
+            <class name="testCases.TC001_AccountRegistrationTest"/>
+            <class name="testCases.TC002_LoginTest"/>
         </classes>
     </test>
 
@@ -13,7 +14,8 @@
         <parameter name="browser" value="firefox"/>
         <parameter name="appURL" value="appURL2"/>
         <classes>
-            <class name="tests.YourTestClass"/>
+             <class name="testCases.TC001_AccountRegistrationTest"/>
+            <class name="testCases.TC002_LoginTest"/>
         </classes>
     </test>
 
@@ -21,7 +23,8 @@
         <parameter name="browser" value="edge"/>
         <parameter name="appURL" value="appURL2"/>
         <classes>
-            <class name="tests.YourTestClass"/>
+             <class name="testCases.TC001_AccountRegistrationTest"/>
+            <class name="testCases.TC002_LoginTest"/>
         </classes>
     </test>
 
