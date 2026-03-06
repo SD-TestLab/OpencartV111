@@ -88,7 +88,7 @@ public class BaseClass {
         driver.manage().window().maximize();
 
         // Dynamic appURL selection
-        String url = p.getProperty(appURL);
+        String url = p.getProperty("appURL2");
         driver.get(url);
         logger.info("Application launched: " + url);
     }
