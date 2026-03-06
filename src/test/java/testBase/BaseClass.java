@@ -86,7 +86,7 @@ public class BaseClass
 				throw new IllegalArgumentException("Invalid browser name: " + br);
 			}
 			
-			driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"),capablities);
+			driver = new RemoteWebDriver(new URL("http://localhost:4445/wd/hub"),capablities);
 		}
 		
 		//Browser setup for local environment
