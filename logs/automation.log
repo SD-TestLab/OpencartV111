@@ -15,3 +15,25 @@
 15:24:27.925 [main] INFO  testCases.TC002_LoginTest - Login successful, My Account page verified
 15:24:27.926 [main] INFO  testCases.TC002_LoginTest - ***** Finish TC002_LoginTest*****
 15:24:28.230 [main] INFO  testCases.TC002_LoginTest - Browser closed successfully
+17:03:23.993 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\Testing 2026\OpencartV111\grid_docker.xml"
+17:03:24.739 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Testing 2026\OpencartV111\grid_docker.xml
+
+17:03:39.508 [main] INFO  testCases.TC001_AccountRegistrationTest - Launching Chrome browser (remote)
+17:03:49.065 [main] INFO  testCases.TC001_AccountRegistrationTest - Application launched: http://host.docker.internal/
+17:03:49.134 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+17:03:50.165 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+17:03:52.751 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+17:03:52.761 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+17:03:57.845 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+17:04:00.084 [main] INFO  testCases.TC001_AccountRegistrationTest - Account successfully registered with email: VZvQV@gmail.com
+17:04:00.087 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+17:04:00.630 [main] INFO  testCases.TC001_AccountRegistrationTest - Browser closed successfully
+17:04:02.347 [main] INFO  testCases.TC002_LoginTest - Launching Chrome browser (remote)
+17:04:03.674 [main] INFO  testCases.TC002_LoginTest - Application launched: http://host.docker.internal/
+17:04:03.690 [main] INFO  testCases.TC002_LoginTest - ***** Starting login test *****
+17:04:05.638 [main] INFO  testCases.TC002_LoginTest - Navigated to Login Page
+17:04:06.661 [main] INFO  testCases.TC002_LoginTest - Login attempted with configured credentials
+17:04:07.812 [main] INFO  testCases.TC002_LoginTest - Login successful, My Account page verified
+17:04:07.812 [main] INFO  testCases.TC002_LoginTest - ***** Finish TC002_LoginTest*****
+17:04:08.017 [main] INFO  testCases.TC002_LoginTest - Browser closed successfully
